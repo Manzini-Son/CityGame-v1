@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/CityGameCLI.dir/link.d CMakeFiles/CityGameCLI.dir/CityGameCLI_autogen/mocs_compilation.cpp.o CMakeFiles/CityGameCLI.dir/main.cpp.o -o CityGameCLI

@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+26f0fa2401f27b6ef153d0e23ac258ab CMakeFiles/CityGame-v1_autogen
+26f0fa2401f27b6ef153d0e23ac258ab CMakeFiles/CityGameCLI_autogen
+6f2c1bc31ed8551e9ab498edb82e89a6 CityGame-v1_autogen/timestamp
+a3d53fc085bdcceab1242f3f319b64a0 CityGameCLI_autogen/timestamp

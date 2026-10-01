@@ -1,0 +1,8 @@
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGameCLI.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGame-v1.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/edit_cache.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/rebuild_cache.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGameCLI_autogen_timestamp_deps.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGameCLI_autogen.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGame-v1_autogen_timestamp_deps.dir
+/home/manzini/ProjectFiles/C++Projects/CityGame-v1/build/CMakeFiles/CityGame-v1_autogen.dir
