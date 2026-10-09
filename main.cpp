@@ -964,10 +964,11 @@ int africa() {
   std::cout << "2. Congo\n";
   std::cout << "3. Niger\n";
   std::cout << "4. Nile\n";
+  std::cout << "0. Back\n";
   std::cout << "Answer: ";
   std::cin >> answer;
   std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-  while (std::cin.fail() || (answer < 1 || answer > 4)) {
+  while (std::cin.fail() || (answer < 0 || answer > 4)) {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Invalid input.\n";
@@ -997,10 +998,11 @@ int africa() {
   std::cout << "2. Mount Kilimanjaro\n";
   std::cout << "3. Atlas Mountains\n";
   std::cout << "4. Drakensberg\n";
+  std::cout << "0. Back\n";
   std::cout << "Answer: ";
   std::cin >> answer;
   std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-  while (std::cin.fail() || (answer < 1 || answer > 4)) {
+  while (std::cin.fail() || (answer < 0 || answer > 4)) {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Invalid input.\n";
@@ -1030,10 +1032,11 @@ int africa() {
   std::cout << "2. Namib\n";
   std::cout << "3. Sahara\n";
   std::cout << "4. Gobi\n";
+  std::cout << "0. Back\n";
   std::cout << "Answer: ";
   std::cin >> answer;
   std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-  while (std::cin.fail() || (answer < 1 || answer > 4)) {
+  while (std::cin.fail() || (answer < 0 || answer > 4)) {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Invalid input.\n";
@@ -1063,10 +1066,11 @@ int africa() {
   std::cout << "2. Lake Malawi\n";
   std::cout << "3. Lake Victoria\n";
   std::cout << "4. Lake Chad\n";
+  std::cout << "0. Back\n";
   std::cout << "Answer: ";
   std::cin >> answer;
   std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
-  while (std::cin.fail() || (answer < 1 || answer > 4)) {
+  while (std::cin.fail() || (answer < 0 || answer > 4)) {
     std::cin.clear();
     std::cin.ignore(std::numeric_limits<std::streamsize>::max(), '\n');
     std::cerr << "Invalid input.\n";
